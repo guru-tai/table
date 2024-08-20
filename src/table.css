@@ -1,0 +1,25 @@
+.heading {
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+.button{
+    background-color: brown;
+    color: white;
+}
+.button-filter{
+    background-color: blue;
+    color: whitesmoke;
+}
+.button-add{
+    background-color: crimson;
+    color: white;
+    margin-right: 10px;
+}
+.button-save{
+    background-color: rgb(59, 42, 42);
+    color: white;
+}
+
